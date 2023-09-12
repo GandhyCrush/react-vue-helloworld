@@ -1,4 +1,5 @@
 # Introducción al desarrollo de SPA's con React y Vue
+#### Gandhy García - Aplicaciones Web Avanzadas - 2023/09/12
 
 En este proyecto se documentan conceptos básicos, características, arquitectura y un ejemplo (Hola mundo) para React y Vue.
 
